@@ -1,0 +1,3 @@
+Adafruit CircuitPython 9.1.1 on 2024-07-23; VCC-GND YD-ESP32-S3 (N16R8) with ESP32S3
+Board ID:yd_esp32_s3_n16r8
+UID:03039F43E084
